@@ -1,4 +1,14 @@
-Conjunto de datos de causas de morbilidad en Panamá
+Proyecto en APP Shiny de causas de morbilidad en Panamá
+
+Librería necesarias:
+shinydashboard, shiny, tidyverse, ggplot2, shinycssloaders, shinyWidgets, leaflet, periscope
+
+Funcionamiento:
+1. Descargar todos los archivos y ejecutar "INEC-morbilidad.Rproj", esto cargará el proyecto en R.
+2. Abrir el archivo "app.R", en R, dar click a la opción "RUN APP".
+
+Archivo: Candidiasis_BASE_COMPLETA.xlsx
+Conjunto de datos de causas de morbilidad en Panamá 
 Datos del Instituto Nacional de Estadísticas
 Tamaño: [29337 × 9] 
 
