@@ -1,7 +1,7 @@
 Proyecto en APP Shiny de causas de morbilidad en Panamá
 
 Librería necesarias:
-shinydashboard, shiny, tidyverse, ggplot2, shinycssloaders, shinyWidgets, leaflet, periscope
+shinydashboard, shiny, tidyverse, ggplot2, shinycssloaders, shinyWidgets, leaflet, periscope,readxl, sf, ggplot2, tidyverse, fuzzyjoin, RColorBrewer, paletteer, httr2, curl,
 
 Funcionamiento:
 1. Descargar todos los archivos y ejecutar "INEC-morbilidad.Rproj", esto cargará el proyecto en R.
